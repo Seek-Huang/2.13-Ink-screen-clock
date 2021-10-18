@@ -7,7 +7,8 @@ API说明:
       https://international.v1.hitokoto.cn/?c=a&encode=text&max_length=20
 
 天气API
-    获取的天气是通过网页的接口,获取的内容保存在当前目录下的json文件接口的地址是在这里抓取的http://www.weather.com.cn/,在控制台f12就可以抓取到,手
+    获取的天气是通过网页的接口,获取的内容保存在当前目录下的json文件接口的地址是在这里抓取的http://www.weather.com.cn/
+    在控制台f12就可以抓取到,手
     动伪造一个来源即可正常的获取到该数据内容。
 
 外壳及电池模块
