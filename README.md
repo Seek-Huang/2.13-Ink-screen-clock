@@ -32,3 +32,4 @@ pip3 install borax pillow threading requests 等扩展库
 
 特别注意:
 在代码文件第三十三行,此次代码需要更改,否则将展示默认城市天气数据
+![image](https://raw.githubusercontent.com/huanglinsd/2.13-Ink-screen-clock/main/pic/IMG_1245.JPG)
