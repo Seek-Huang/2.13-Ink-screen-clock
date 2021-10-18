@@ -30,7 +30,7 @@ def Local_strong_brush(): #局部强制刷新显示
      while i < 5:
          epd.displayPartial(epd.getbuffer(info_image.rotate(180)))#局刷开始
          i = i + 1
-def getWeath(city='101270108'): #天气函数,下载json天气至本地
+def getWeath(city='101280601'): #天气函数,下载json天气至本地
      headers = {
          'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50',
          'Referer':'http://www.weather.com.cn/'
