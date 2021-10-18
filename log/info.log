@@ -1,6 +1,6 @@
 DEBUG:root:Loading Fonts
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): d1.weather.com.cn:80
-DEBUG:urllib3.connectionpool:http://d1.weather.com.cn:80 "GET /sk_2d/101270108.html HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://d1.weather.com.cn:80 "GET /sk_2d/101280601.html HTTP/1.1" 200 None
 天气文件更新
 INFO:root:Width = 122, Height = 250
 INFO:root:Initialize and clear the display
