@@ -155,7 +155,7 @@ def Partial_refresh():#局刷函数
          global get_date_var #再次声明这个是全局变量
          if(get_date_var1==get_date_var) ==False:
              draw.rectangle((2, 2, 250, 16), fill = 255) #设置头部刷新区域
-             draw.text((2,2),get_date_var,font = font02,fill =0)#将日期及星期几刷新显示到屏幕
+             draw.text((2,2),get_date_var1,font = font02,fill =0)#将日期及星期几刷新显示到屏幕
              get_date_var=get_date_var1 #将更新的值保存到初始变量,直到下一次变化时执行该刷新操作
              logging.debug("头部日期部位发生刷新变化.")
              Local_strong_brush() #局部强刷
