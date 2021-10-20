@@ -26,10 +26,10 @@ pip3 install borax pillow threading requests 等扩展库
 
 启动:
    在文档中的bin文件夹下存在有start.sh文件,执行  chmod +x start.sh 授权, 直接运行start.sh时间即可 
-''' Bash
+```Bash
    cd \[程序目录\]/bin/
    ./start.sh
-'''
+```
 特别注意:
 在代码文件第三十三行,此次代码需要更改,否则将展示默认城市天气数据
 ![image](https://raw.githubusercontent.com/huanglinsd/2.13-Ink-screen-clock/main/pic/IMG_1245.JPG)
