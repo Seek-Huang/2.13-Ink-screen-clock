@@ -28,7 +28,7 @@ pip3 install borax pillow threading requests
 启动:
    在文档中的bin文件夹下存在有start.sh文件,执行  chmod +x start.sh 授权, 直接运行start.sh时间即可 
 ```Bash
-   cd \[程序目录\]/bin/
+   cd [程序目录]/bin/
    ./start.sh
 ```
 特别注意:
