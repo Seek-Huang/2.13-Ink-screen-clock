@@ -17,8 +17,9 @@
 
 
 #### 需要安装的依赖:
-pip3 install borax pillow threading requests 等扩展库
-
+```Bash
+pip3 install borax pillow threading requests
+```
 
 总体采用局刷方案,程序运行后一直处于程序的获取新数据的过程中,当发现数据变化后即开始自动局刷。
 
